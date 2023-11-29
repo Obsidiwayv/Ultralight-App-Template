@@ -12,6 +12,10 @@ Before you build and run, you'll need to [install the prerequisites](https://doc
 
 To clone the repo and build, run the following:
 
+Run `npx webpack` and `npm run tailwind` to build the assets first
+
+you can either run the commands below or run the build.bat included to run cmake for you
+
 ```shell
 git clone https://github.com/ultralight-ux/ultralight-quick-start
 cd ultralight-quick-start
